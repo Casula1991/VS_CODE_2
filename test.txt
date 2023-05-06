@@ -4,3 +4,9 @@ Input 2: Age, City
 
 Input 3: Work profession
 
+################################
+
+Write a python script that reads these inputs.
+
+
+
