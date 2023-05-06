@@ -1,5 +1,6 @@
-Fabio Casula
+Input 1: Name
 
-31 anos, Colatina
+Input 2: Age, City
 
+Input 3: Work profession
 
